@@ -1,0 +1,13 @@
+#team {
+  background-color: #f4f4fd;
+}
+
+#team h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+#team p {
+  line-height: 1.5;
+}
