@@ -1,14 +1,21 @@
-#portfolio h2 {
-  font-size: 36px;
-  line-height: 1.1;
+.portfolio-section {
+  list-style: none;
+  letter-spacing: 0.02em;
 }
 
-#portfolio h3 {
+.portfolio-section .second-heading {
+  font-size: 36px;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.portfolio-section .portfolio-heading {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
 }
 
-#portfolio p {
+.portfolio-section .portfolio-info {
   line-height: 1.5;
+  color: #434455;
 }

@@ -1,10 +1,13 @@
-#footer {
+.footer-part {
   background-color: #2e2f42;
   color: #f4f4fd;
 }
 
-#footer p {
+.footer-part .footer-info {
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
-
-
+.logo {
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
