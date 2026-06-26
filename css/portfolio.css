@@ -1,5 +1,4 @@
 .portfolio-section {
-  list-style: none;
   letter-spacing: 0.02em;
 }
 
@@ -18,4 +17,8 @@
 .portfolio-section .portfolio-info {
   line-height: 1.5;
   color: #434455;
+}
+
+.list-three {
+  list-style: none;
 }

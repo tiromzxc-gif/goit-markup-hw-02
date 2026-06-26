@@ -1,5 +1,4 @@
 .features-section {
-  list-style: none;
   letter-spacing: 0.02em;
 }
 
@@ -12,4 +11,9 @@
 .features-section .info {
   line-height: 1.5;
   color: #434455;
+}
+
+.list-one {
+  list-style: none;
+  letter-spacing: 0.02em;
 }

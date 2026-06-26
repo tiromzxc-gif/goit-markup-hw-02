@@ -7,6 +7,7 @@
   line-height: 1.5;
   font-weight: 500;
   letter-spacing: 0.02em;
+  list-style: none;
 }
 
 .logo {
@@ -44,15 +45,15 @@ a {
   color: #404bbf;
 }
 
-nav a:hover {
+.menu a:hover {
   color: #404bbf;
 }
 
-nav a:focus {
+.menu a:focus {
   color: #404bbf;
 }
 
-nav a:active {
+.menu a:active {
   color: #404bbf;
   text-decoration: underline;
 }
